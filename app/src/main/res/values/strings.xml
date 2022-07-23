@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecyclerViewMultiViews</string>
+    <string name="car">Car</string>
+    <string name="_80_km">80 km</string>
+    <string name="_1000kg">1000KG</string>
+    <string name="type">type</string>
+    <string name="_type">Type:</string>
+    <string name="name">Name:</string>
+    <string name="speed">Speed:</string>
+    <string name="weight">Weight:</string>
+</resources>
